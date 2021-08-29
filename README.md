@@ -1,1 +1,2 @@
-# Saketh_BounceOff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
